@@ -1,12 +1,8 @@
 ## Hi there 👋
 
-<!--
+您好呀，欢迎来到 [menghuanlife](http://github.com/menghuanlife) 社区， 目前主要负责维护网站 `menghuan.life`
 
-**Here are some ideas to get you started:**
+由[禾几海](https://github.com/xiaohai2271)  & [小梦幻](https://github.com/mengzi0222) 进行维护
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
+
+
